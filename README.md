@@ -1,5 +1,6 @@
 # Analysis-of-Protest-Banners-Project 
 https://colab.research.google.com/drive/1iECJ62ob0aHycrD_IFaVi5-iKY37oXkC?usp=sharing
+
 Project Description:
 This project, developed in Python using Google Colab, aimed to analyze protest images through computer vision and artificial intelligence. The goal was to automatically identify and describe the textual and symbolic content of protest banners, as well as other relevant contextual elements (such as crowds, police presence, and national symbols).
 
