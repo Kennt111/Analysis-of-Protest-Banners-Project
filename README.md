@@ -24,3 +24,5 @@ Overall description of the protest scene
 Results:
 The model successfully generated structured descriptions for dozens of protest images, enabling thematic and semantic analysis of sociopolitical messages. The project demonstrated the potential of multimodal AI in the field of social research, discourse analysis, and media monitoring.
 
+
+<img width="1299" height="715" alt="image" src="https://github.com/user-attachments/assets/e86e6391-bf23-4b16-b53a-6948f4206862" />
